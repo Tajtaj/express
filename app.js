@@ -21,4 +21,8 @@ app.get('/contact', function(req, res){
    res.send("Contact page");
 });
 
+app.get('/login', function(req, res){
+   res.send("Login page");
+});
+
 app.listen(3000);
