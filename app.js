@@ -9,6 +9,10 @@ app.get('/about', function(req, res){
    res.send("About page");
 });
 
+app.get('/portfolio', function(req, res){
+   res.send("Portfolio page");
+});
+
 app.get('/contact', function(req, res){
    res.send("Contact page");
 });
