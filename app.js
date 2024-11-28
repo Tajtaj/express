@@ -25,4 +25,8 @@ app.get('/login', function(req, res){
    res.send("Login page");
 });
 
+app.get('/dashboard', function(req, res){
+   res.send("Dashboard page");
+});
+
 app.listen(3000);
