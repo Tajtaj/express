@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "A comfortable wireless mouse with ergonomic design.",
+    "price": 25.99,
+    "category": "Electronics",
+    "stock": 150,
+    "rating": 4.5,
+    "image_url": "https://example.com/images/wireless_mouse.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "description": "Noise-canceling over-ear Bluetooth headphones with 20 hours of battery life.",
+    "price": 89.99,
+    "category": "Electronics",
+    "stock": 80,
+    "rating": 4.7,
+    "image_url": "https://example.com/images/bluetooth_headphones.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "description": "Adjustable laptop stand made from aluminum alloy for better posture.",
+    "price": 35.50,
+    "category": "Accessories",
+    "stock": 200,
+    "rating": 4.3,
+    "image_url": "https://example.com/images/laptop_stand.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone Charger",
+    "description": "Fast charging 20W USB-C charger compatible with most smartphones.",
+    "price": 15.99,
+    "category": "Electronics",
+    "stock": 300,
+    "rating": 4.8,
+    "image_url": "https://example.com/images/smartphone_charger.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Office Chair",
+    "description": "Adjustable ergonomic office chair with lumbar support for long hours of work.",
+    "price": 199.99,
+    "category": "Furniture",
+    "stock": 50,
+    "rating": 4.6,
+    "image_url": "https://example.com/images/office_chair.jpg"
+  },
+  {
+    "id": 6,
+    "name": "LED Desk Lamp",
+    "description": "Dimmable LED desk lamp with touch controls and multiple color modes.",
+    "price": 45.00,
+    "category": "Home & Office",
+    "stock": 120,
+    "rating": 4.4,
+    "image_url": "https://example.com/images/led_desk_lamp.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Smart Watch",
+    "description": "Stylish smart watch with fitness tracking, heart rate monitor, and notifications.",
+    "price": 129.99,
+    "category": "Wearables",
+    "stock": 75,
+    "rating": 4.9,
+    "image_url": "https://example.com/images/smart_watch.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Portable Power Bank",
+    "description": "10,000mAh power bank with fast charging capabilities and dual USB ports.",
+    "price": 29.99,
+    "category": "Electronics",
+    "stock": 250,
+    "rating": 4.7,
+    "image_url": "https://example.com/images/power_bank.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Coffee Maker",
+    "description": "Programmable coffee maker with a 12-cup capacity and auto shut-off.",
+    "price": 49.99,
+    "category": "Home Appliances",
+    "stock": 90,
+    "rating": 4.2,
+    "image_url": "https://example.com/images/coffee_maker.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with 360-degree sound and water-resistant design.",
+    "price": 59.99,
+    "category": "Electronics",
+    "stock": 100,
+    "rating": 4.6,
+    "image_url": "https://example.com/images/bluetooth_speaker.jpg"
+  }
+]
