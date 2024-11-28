@@ -98,5 +98,15 @@
     "stock": 100,
     "rating": 4.6,
     "image_url": "https://example.com/images/bluetooth_speaker.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with 360-degree sound and water-resistant design.",
+    "price": 59.99,
+    "category": "Electronics",
+    "stock": 100,
+    "rating": 4.6,
+    "image_url": "https://example.com/images/bluetooth_speaker.jpg"
   }
 ]
