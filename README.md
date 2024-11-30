@@ -1,6 +1,6 @@
 Playing with **Express js**
 
-** Running Express **
+**Running Express**
 
 1. git clone https://github.com/Tajtaj/express.git
 2. cd your-destination-folder
